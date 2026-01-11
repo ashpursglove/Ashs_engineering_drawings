@@ -1,0 +1,4 @@
+PyQt5>=5.15
+reportlab>=4.0
+Pillow>=10.0
+pypdf>=4.0
