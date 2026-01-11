@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --name "Ashdraw" --icon pepeico.ico main.py
