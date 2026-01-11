@@ -153,7 +153,7 @@ Used on real projects.
 Trusted more than licence servers.  
 Maintained out of pure spite.
 
-If it breaks, it’s because *I* broke it — not because a vendor flipped a switch.
+If it breaks, it’s because **I** broke it — not because a vendor flipped a switch.
 
 ---
 
