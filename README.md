@@ -17,11 +17,11 @@ This is a **local, offline, no-licence, no-login, no-corporate-spaff** tool for 
 - A phone-home DRM tantrum
 - Or some MBA deciding your file is “read-only” this month
 
-You give it images or PDFs.  
+You give it any chicken scratch images or PDFs.  
 It gives you a **clean, ISO-style drawing pack PDF**.
 
 That’s it.  
-No hoops. No begging. No kneeling.
+No hoops. No begging. No kneeling. No sucking
 
 ---
 
