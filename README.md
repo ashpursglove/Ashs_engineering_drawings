@@ -32,7 +32,7 @@ Somewhere along the line, the big CAD vendors decided that:
 - Drawing borders are *premium features*
 - Page setup is *enterprise-only*
 - Issuing a PDF requires a **four-figure annual tribute**
-- And if you stop paying, your own drawings are held hostage like a bad ransom movie
+- And if you stop paying, your own drawings are held hostage like intellectual property repossessed by people who have never drawn a fucking thing.
 
 All so you can:
 - Put a title block on a picture
@@ -52,7 +52,7 @@ Then you do **not** need:
 - A 20GB install
 - A licence daemon running in the background
 - A yearly invoice that makes your eyes water
-- Or a EULA written by lawyers who actively despise you
+- Or a EULA written by lawyers who hate you
 
 ---
 
@@ -63,7 +63,7 @@ Then you do **not** need:
 - Places each sheet into a proper viewport
 - Adds an ISO-style title block
 - Outputs **one combined PDF drawing pack**
-- Defaults to A3 landscape like a grown-up tool should
+- Defaults to A3 landscape like a grown-up tool should (can select A4 if you're still growing up)
 
 Per sheet:
 - Drawing title
@@ -76,7 +76,7 @@ Global:
 - Revision
 - Date
 - Issuer company
-- Optional logo (because branding apparently matters to people)
+- Optional logo (because branding is lit)
 
 No modelling.  
 No constraints.  
@@ -133,7 +133,7 @@ Astonishing, really.
 
 ---
 
-## Philosophy (The Bit CAD Vendors Hate)
+## Philosophy
 
 - If it’s your drawing, you should be allowed to print it
 - A rectangle and some text should not cost thousands
@@ -167,15 +167,15 @@ Ship it.
 Rename it.
 Sell it.
 
-Just don’t add a login screen or I will personally judge you.
+Just don’t add a login screen or I will personally spit in your mouth.
 
 ---
 
 ## Final Thought
 
-This tool exists to screw over exactly one idea:
+This tool exists because of exactly one idea:
 
-That you should need **AutoCAD or SolidWorks** just to wrap a picture in a border and press “Export PDF”.
+You should need **AutoCAD or SolidWorks** just to wrap a picture in a border and press “Export PDF”.
 
 They can absolutely get fucked.
 
