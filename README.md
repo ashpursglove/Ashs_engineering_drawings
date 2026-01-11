@@ -1,15 +1,16 @@
 # Ash’s Engineering Drawing Maker  
-### Because paying Autodesk to place a rectangle around a picture can get absolutely fucked.
+### Because Autodesk can get absolutely fucked if they think I'm paying to place a rectangle around a picture 
 
 ---
 
 ## What The Hell Is This?
 
-This is a **local, offline, no-licence, no-login, no-corporate-nonsense** tool for turning images and PDFs into **actual engineering drawings** without:
+This is a **local, offline, no-licence, no-login, no-corporate-spaff** tool for turning images and PDFs into **actual engineering drawings** without:
 
 - AutoCAD
 - SolidWorks
 - Revit
+- Fusion360
 - Inventor
 - A subscription
 - A licence server
