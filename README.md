@@ -78,6 +78,9 @@ Global:
 - Issuer company
 - Optional logo (because branding is lit)
 
+Saving:
+- As per version 1.1.0 you can now save and load configurations so its way easier if you want to go back and correct anything when you find the inevitable spelling mistake without haveing to re-input all the other data.
+
 No modelling.  
 No constraints.  
 No parametric wizardry.  
